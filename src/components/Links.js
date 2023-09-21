@@ -4,6 +4,7 @@ export default function Links() {
 
     const links = {
         "ZHAW": "https://www.zhaw.ch/de/hochschule/",
+        "Stundenplan": "https://stundenplan.zhaw.ch/",
         "Intranet": "https://intra.zhaw.ch/",
         "Webmail Office 365": "https://outlook.office365.com/owa",
         "Moodle": "https://moodle.zhaw.ch/",
