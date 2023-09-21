@@ -8,7 +8,8 @@ export default function Links() {
         "Intranet": "https://intra.zhaw.ch/",
         "Webmail Office 365": "https://outlook.office365.com/owa",
         "Moodle": "https://moodle.zhaw.ch/",
-        "EventoWeb": "https://eventoweb.zhaw.ch/"
+        "EventoWeb": "https://eventoweb.zhaw.ch/",
+        "GitHub (ZHAW)": "https://github.zhaw.ch/"
     }
 
     const renderLinks = () => {
